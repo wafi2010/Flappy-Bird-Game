@@ -1,0 +1,12 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background: skyblue;
+}
+
+#board {
+    /* background-color: skyblue; */
+    margin-top: 40px;
+    border-radius: 30px;
+    background-image: url("bg.jpg");
+}
